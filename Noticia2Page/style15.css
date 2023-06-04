@@ -1,0 +1,39 @@
+.navbar-nav .nav-link {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-radius: 0.25rem; 
+  }
+
+.navbar {
+padding: 20px;
+}
+
+#conttexto {
+    background-color: #f8f8f8;
+    padding: 18         px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.2s ease;
+  }
+  
+#conttexto {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; 
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

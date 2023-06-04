@@ -1,0 +1,74 @@
+.navbar-nav .nav-link {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-radius: 0.25rem; 
+  }
+
+.navbar {
+padding: 20px;
+}
+#titlepage {
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  color: rgb(236, 172, 255); 
+  text-align: center; 
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  max-width: 80%; 
+  font-size: 5vw;
+}
+
+#imagemhome {
+  filter: brightness(50%); 
+  width: 100%; 
+  height: auto;
+}
+
+#examefoto {
+  background-color: blue;
+  padding: 20px;
+  text-align: center;
+}
+
+#titlepage2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+}
+
+#contatocontainer {
+  background: linear-gradient(to bottom, #efe4b9, #d46145);
+}
+.item-exames {
+  display: inline-block;
+  margin: 10px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  width: 200px;
+}
+
+.iconeEspecialidades {
+  width: 100px;
+  height: 100px;
+}
+
+.nomeItemEspec {
+  margin-top: 10px;
+  height: 40px;
+  color: white;
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+body {
+  background-image: url("https://img.freepik.com/fotos-premium/doutor-femea-amigavel-que-guarda-a-mao-do-paciente-femea-para-o-incentivo-e-a-empatia_109710-184.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,25 @@
+.navbar-nav .nav-link {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-radius: 0.25rem; 
+  }
+
+.navbar {
+padding: 20px;
+}
+.identify {
+  background-image: url("./../Imgs/medica.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+tr {
+  background-color: rgb(235, 78, 243);
+  color: rgb(41, 8, 43);
+}
+td {
+  background-color:rgb(209, 136, 243);
+  color: rgb(0, 0, 0)
+}
